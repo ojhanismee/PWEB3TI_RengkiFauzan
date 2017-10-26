@@ -11,6 +11,8 @@
     <div>
     
         <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:BulletedList ID="BulletedList1" runat="server">
+        </asp:BulletedList>
     
     </div>
     </form>
